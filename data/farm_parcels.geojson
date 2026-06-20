@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "name": "farm_parcels_central_valley_ca",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "0",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0200, 36.7500], [-120.0100, 36.7500],
+          [-120.0100, 36.7420], [-120.0200, 36.7420],
+          [-120.0200, 36.7500]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-001", "crop_type": "tomato",
+        "area_ha": 52.4, "owner": "Garcia Family Farms",
+        "yield_ton_ha": 88.5, "county": "Fresno"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0090, 36.7510], [-119.9990, 36.7510],
+          [-119.9990, 36.7440], [-120.0090, 36.7440],
+          [-120.0090, 36.7510]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-002", "crop_type": "almond",
+        "area_ha": 68.1, "owner": "Valley Nut Corp",
+        "yield_ton_ha": 3.8, "county": "Fresno"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0300, 36.7380], [-120.0210, 36.7380],
+          [-120.0210, 36.7310], [-120.0300, 36.7310],
+          [-120.0300, 36.7380]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-003", "crop_type": "cotton",
+        "area_ha": 91.7, "owner": "Westside Cotton LLC",
+        "yield_ton_ha": 2.1, "county": "Fresno"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0190, 36.7390], [-120.0100, 36.7390],
+          [-120.0100, 36.7320], [-120.0190, 36.7320],
+          [-120.0190, 36.7390]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-004", "crop_type": "corn",
+        "area_ha": 47.3, "owner": "Garcia Family Farms",
+        "yield_ton_ha": 12.4, "county": "Fresno"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0080, 36.7400], [-119.9980, 36.7400],
+          [-119.9980, 36.7330], [-120.0080, 36.7330],
+          [-120.0080, 36.7400]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-005", "crop_type": "almond",
+        "area_ha": 75.8, "owner": "Valley Nut Corp",
+        "yield_ton_ha": 4.1, "county": "Fresno"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0400, 36.7280], [-120.0310, 36.7280],
+          [-120.0310, 36.7210], [-120.0400, 36.7210],
+          [-120.0400, 36.7280]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-006", "crop_type": "wheat",
+        "area_ha": 83.2, "owner": "Central Valley Grain",
+        "yield_ton_ha": 5.9, "county": "Kings"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0290, 36.7290], [-120.0200, 36.7290],
+          [-120.0200, 36.7220], [-120.0290, 36.7220],
+          [-120.0290, 36.7290]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-007", "crop_type": "tomato",
+        "area_ha": 39.6, "owner": "SunGold Produce",
+        "yield_ton_ha": 91.2, "county": "Kings"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0180, 36.7300], [-120.0090, 36.7300],
+          [-120.0090, 36.7230], [-120.0180, 36.7230],
+          [-120.0180, 36.7300]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-008", "crop_type": "pistachio",
+        "area_ha": 62.5, "owner": "Kern Nut Partners",
+        "yield_ton_ha": 2.9, "county": "Kings"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0500, 36.7180], [-120.0410, 36.7180],
+          [-120.0410, 36.7110], [-120.0500, 36.7110],
+          [-120.0500, 36.7180]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-009", "crop_type": "cotton",
+        "area_ha": 110.3, "owner": "Westside Cotton LLC",
+        "yield_ton_ha": 1.9, "county": "Kings"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0390, 36.7190], [-120.0300, 36.7190],
+          [-120.0300, 36.7120], [-120.0390, 36.7120],
+          [-120.0390, 36.7190]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-010", "crop_type": "corn",
+        "area_ha": 58.9, "owner": "Central Valley Grain",
+        "yield_ton_ha": 13.1, "county": "Tulare"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0280, 36.7200], [-120.0190, 36.7200],
+          [-120.0190, 36.7130], [-120.0280, 36.7130],
+          [-120.0280, 36.7200]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-011", "crop_type": "almond",
+        "area_ha": 44.1, "owner": "SunGold Produce",
+        "yield_ton_ha": 3.5, "county": "Tulare"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0170, 36.7210], [-120.0080, 36.7210],
+          [-120.0080, 36.7140], [-120.0170, 36.7140],
+          [-120.0170, 36.7210]
+        ]]
+      },
+      "properties": {
+        "parcel_id": "CV-012", "crop_type": "wheat",
+        "area_ha": 71.4, "owner": "Kern Nut Partners",
+        "yield_ton_ha": 6.2, "county": "Tulare"
+      }
+    }
+  ]
+}

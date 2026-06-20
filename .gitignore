@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+output/
+figures/
+*.png
+*.pdf
+*_output.geojson
+*_result.geojson
+*_dissolved.geojson
+*_buffered.geojson
+
+# Logs
+*.log

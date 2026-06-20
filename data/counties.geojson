@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "name": "counties_central_valley_subset",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "0",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0500, 36.7430], [-119.9850, 36.7430],
+          [-119.9850, 36.7300], [-120.0500, 36.7300],
+          [-120.0500, 36.7430]
+        ]]
+      },
+      "properties": {
+        "county_id": "C-001",
+        "county_name": "Fresno",
+        "state": "CA",
+        "fips": "06019",
+        "area_sq_km": 15444.9,
+        "population": 1008654
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0500, 36.7310], [-119.9850, 36.7310],
+          [-119.9850, 36.7180], [-120.0500, 36.7180],
+          [-120.0500, 36.7310]
+        ]]
+      },
+      "properties": {
+        "county_id": "C-002",
+        "county_name": "Kings",
+        "state": "CA",
+        "fips": "06031",
+        "area_sq_km": 3596.8,
+        "population": 153443
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-120.0500, 36.7190], [-119.9850, 36.7190],
+          [-119.9850, 36.7080], [-120.0500, 36.7080],
+          [-120.0500, 36.7190]
+        ]]
+      },
+      "properties": {
+        "county_id": "C-003",
+        "county_name": "Tulare",
+        "state": "CA",
+        "fips": "06107",
+        "area_sq_km": 12494.7,
+        "population": 473117
+      }
+    }
+  ]
+}
