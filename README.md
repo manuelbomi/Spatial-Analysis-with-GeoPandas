@@ -1,5 +1,5 @@
 # Spatial Analysis with GeoPandas
-**Author:** Emmanuel Oyekanlu — Principal Data Engineer  
+**Author:** Emmanuel Oyekanlu — Principal AI/Data Solutions Engineer  
 **Focus:** Real-world spatial analysis for precision agriculture and data pipeline integration
 
 ---
